@@ -1,4 +1,4 @@
-# Immich iOS Deduplicator
+# immich-ios-deduplicator
 
 A small SwiftUI utility for cleaning up duplicate iOS Photos assets that would otherwise be re-uploaded to Immich after the web duplicate resolver removes the server copy.
 
